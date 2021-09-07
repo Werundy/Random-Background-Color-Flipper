@@ -1,5 +1,3 @@
-# Messing-around-with-JS
-Practicing JS by doing little projects
+# Random background-color generator
+Generating random colors and displaying its hex code as it's showed on screen.
 
-I'll be practicing Javascript by doing little projects, improving and developing new features.
-Here will be uploaded all my journey through JS
