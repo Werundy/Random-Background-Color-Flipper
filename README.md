@@ -4,4 +4,6 @@ All features are and will be implemented using vanilla JS as a way to practice a
 ![JS logo](https://images.app.goo.gl/arGaKkEK5TELQTkc8)
 
 * v1
-  * The page changes its background color for a random hex value (which displays on screen) by using a button.
+- [x]  Shows its values in RGB
+- [ ]  Shows its value in CMYK
+- [ ]  Let you copy the code to the clipboard
