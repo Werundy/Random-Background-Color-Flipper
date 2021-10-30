@@ -3,7 +3,7 @@ const body = document.getElementById("container");
 const hexCode = document.getElementById("hexcode");
 const header = document.getElementById("head");
 
-
+/*Hola esto es un comando para ver si me funciona algo*/
 button.addEventListener("click", function(){
     const hex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, "a", "b", "c", "d", "e", "f"];
     let randomNum = 0;
